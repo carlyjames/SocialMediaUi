@@ -296,6 +296,7 @@ a{
     .profile-card{
         margin-top: 1rem;
         z-index: -1;
+        position : relative;
     }
     .menu-button-container, .top-nav {
       display: flex;
